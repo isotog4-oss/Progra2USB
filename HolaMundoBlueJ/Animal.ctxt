@@ -1,0 +1,8 @@
+#BlueJ class context
+#Fri Aug 07 21:34:53 CST 2026
+comment0.target=Animal
+comment1.params=nombre
+comment1.target=Animal(java.lang.String)
+comment2.target=java.lang.String getNombre()
+comment3.target=java.lang.String hacerSonido()
+numComments=4
