@@ -31,6 +31,7 @@ namespace Carrito.logica
             {
                 objDetalle.objProducto.descontarStock(objDetalle.intCantidad);
             }
+          }
         }
         
     }
